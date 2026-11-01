@@ -7,6 +7,8 @@
 
 For example, [**Nobody Listens**](https://github.com/Nobody-Builds/Nobody-Listens) started as a fork of the [LMusic](https://github.com/Kunj-Company/LMusic-player) music player. It now has its own name and design, YouTube Music and JioSaavn streaming, and a standalone Galaxy Watch app.
 
+Not everything here is public. Nobody Builds is also home to my personal projects, the private internal tools I build, and the things I build with my inner circle.
+
 **Forks keep their roots.** Each fork credits its original authors and keeps its upstream license. Fixes go back upstream when they fit.
 
 Open an issue, send a pull request or star something. If you use something from here, you're officially somebody.
